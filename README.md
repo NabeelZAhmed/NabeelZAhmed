@@ -31,14 +31,6 @@ I work at the intersection of hardware and firmware, specializing in embedded sy
 
 ---
 
-### 📈 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabeelZAhmed&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelZAhmed&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/nabeel-ahmed-805b20292/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nabeel-ahmed-805b20292/))
+* **Email:** [your-nabeelameen2014@gmail.com](mailto:nabeelameen2014@gmail.com)
