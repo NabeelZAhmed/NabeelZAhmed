@@ -1,4 +1,4 @@
-# Hi, I'm Nabeel 👋
+# Hi, I'm Nabeel Ahmed 👋
 
 🎓 **4th Year Electronics & Communication Engineering Student** at **TKM College of Engineering**
 
@@ -32,5 +32,5 @@ I work at the intersection of hardware and firmware, specializing in embedded sy
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/nabeel-ahmed-805b20292/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nabeel-ahmed-805b20292/))
-* **Email:** [your-nabeelameen2014@gmail.com](mailto:nabeelameen2014@gmail.com)
+* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/nabeel-ahmed-805b20292/)]
+* **Email:** [nabeelameen2014@gmail.com](mailto:nabeelameen2014@gmail.com)
